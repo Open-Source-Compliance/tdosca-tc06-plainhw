@@ -13,7 +13,7 @@ Copyright (C) 2020 Karsten Reincke / Deutsche Telekom AG
 ## 1. Purpose <a id="pur"></a>
 One task of the project [Test-Driven Open Source Compliance Automation](https://github.com/Open-Source-Compliance/tdosca) is to define test cases consisting of program sources and reference compliance artifacts which - added to the program package - would ensure to distribute the open source program compliantly.
 
-The software files TDOSCA-TC06-PLAINHW are the input of the test case no. 6. TC06 delivers a ***plain hello world*** program, consists of differently licensed internal classes and depends on 3 external Java libraries
+The software files of the test case TDOSCA-TC06-PLAINHW are the input of the sixth tdosca test case. TC06 delivers a ***plain hello world*** program, consists of differently licensed internal classes and depends on 3 external Java libraries
 
 ## 2. Prerequisites <a id="prq"></a>
 * operating system
@@ -29,10 +29,10 @@ You have tow options to get this test case:
 * Download the respective zip file by using the GitHub commands in the [tdosca-tc06-plainhw repository](https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw).
 
 ## 4. Installation <a id="ins"></a>
-To compile and install the program itself, do this:
-* Download and unzip test case package or clone the test case repository
-* Change into the directory *input-sources*
-* Call ``mvn package``
+To compile and run the program, ...
+* ... download and unzip test case package or clone the test case repository
+* ... change into the directory *input-sources*
+* ... call ``mvn package``
 
 ## 5. Usage <a id="use"></a>
 * Change into the directory *input-sources*
