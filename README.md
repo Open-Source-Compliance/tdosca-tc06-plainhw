@@ -18,10 +18,10 @@ This test case follows the general pattern of a TDOSCA test case:
   - **input-sources**: *contains all sources to create the distributable (binary package)* [used by the tested tool to create the compliance artifacts]
   - **README.md**: *this file*
   - **reference-compliance-artifacts**: *the compliance compliance artifacts a tool (chain) must/should generate*
-  - **bom.csv**: *a list of all differently licensed open source components of a package*
-  - **does.yaml**: *a list of open / closed tasks to establish the open source compliance*
-  - **donts.yaml**: *a list prohibited actions to use the package compliantly*
-  - **oscf.md**: *the open source compliance file* [fulfills the compliance requirements if combined with the distributed source- or binary package]
+    - **bom.csv**: *a list of all differently licensed open source components of a package*
+    - **does.yaml**: *a list of open / closed tasks to establish the open source compliance*
+    - **donts.yaml**: *a list prohibited actions to use the package compliantly*
+    - **oscf.md**: *the open source compliance file* [fulfills the compliance requirements if combined with the distributed source- or binary package]
   * **prerequisites.csv**: *a list of preinstalled tools and libs, required by the software but not delivered as part of the software package*
 
 ### Intention
