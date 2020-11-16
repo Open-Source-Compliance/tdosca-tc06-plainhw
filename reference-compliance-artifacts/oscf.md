@@ -1,4 +1,4 @@
-# Open Source Compliance File for the package complex ***tdosca-tc06-simplhw***
+# Open Source Compliance File for the package complex ***tdosca-tc06-plainhw***
 
 <!-- todo: take over the global editor data -->
 
@@ -18,7 +18,7 @@
 ### 3.1) Package: tdosca-tc06
 
 - Release: 1.0
-- Repository: [https://github.com/Open-Source-Compliance/tdosca-tc06-simplhw/tree/master/input-sources](https://github.com/Open-Source-Compliance/tdosca-tc06-simplhw/tree/master/input-sources)
+- Repository: [https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw/tree/master/input-sources](https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw/tree/master/input-sources)
 - **TODO:** *organize an include the package specific meta data*
 - Scope: Default
   - LicenseID: MIT
@@ -104,7 +104,8 @@ The classes are licensed as follows:
   - Tipster.java :- B.S.D-3-Clause
   - TipsterTest.java :- B.S.D-3-Clause
 
-Note: In this more or less simple test case we have veiled the license identifiers by dots as not to irritate the scanning tools
+Note: In this more or less plaine test case we have veiled the license
+identifiers by dots as not to irritate the scanning tools
 
 Karsten Reincke [kreincke] (karsten.reincke@telekom.de)
 Daniel Eder [daniel-eder] (daniel.eder@magenta.at)
@@ -143,7 +144,7 @@ Copyright 2017 Remko Popma
 ```
 
 <a name="JODA-TIME"> </a>
-### 3.2) Package: joda-time
+### 3.3) Package: joda-time
 - Release: 2.10.8
 - Repository: [https://github.com/JodaOrg/joda-time](https://github.com/JodaOrg/joda-time)
 - **TODO:** *organize an include the package specific meta data*
