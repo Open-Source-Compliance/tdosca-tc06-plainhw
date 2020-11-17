@@ -1,7 +1,7 @@
-tdosca-tc06,1.0.0,MIT,DEFAULT,https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw/tree/master/input-sources
-tdosca-tc06,1.0.0,Apache-2.0,Greeter.java,https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw/tree/master/input-sources/src/main/java/de/fodina/tdosca/tc06/Greeter.java
-tdosca-tc06,1.0.0,Apache-2.0,GreeterTest.java,https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw/tree/master/input-sources/src/test/java/de/fodina/tdosca/tc06/GreeterTest.java
-tdosca-tc06,1.0.0,BSD-3-CLAUSE,Tipster.java,https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw/tree/master/input-sources/src/main/java/de/fodina/tdosca/all/Tipster.java
-tdosca-tc06,1.0.0,BSD-3-CLAUSE,TipsterTest.java,https://github.com/Open-Source-Compliance/tdosca-tc06-plainhw/tree/master/input-sources/src/test/java/de/fodina/tdosca/all/TipsterTest.java
-log4j, ???
-joda-time, ???
+tdosca-tc04,1.0.0,MIT,DEFAULT,https://github.com/Open-Source-Compliance/tdosca-tc04-plainhw/tree/master/input-sources
+tdosca-tc04,1.0.0,Apache-2.0,Greeter.java,https://github.com/Open-Source-Compliance/tdosca-tc04-plainhw/tree/master/input-sources/src/main/java/tdosca/tc04/Greeter.java
+tdosca-tc04,1.0.0,Apache-2.0,GreeterTest.java,https://github.com/Open-Source-Compliance/tdosca-tc04-plainhw/tree/master/input-sources/src/test/java/tdosca/tc04/GreeterTest.java
+tdosca-tc04,1.0.0,BSD-3-CLAUSE,Tipster.java,https://github.com/Open-Source-Compliance/tdosca-tc04-plainhw/tree/master/input-sources/src/main/java/tdosca/all/Tipster.java
+tdosca-tc04,1.0.0,BSD-3-CLAUSE,TipsterTest.java,https://github.com/Open-Source-Compliance/tdosca-tc04-plainhw/tree/master/input-sources/src/test/java/tdosca/all/TipsterTest.java
+log4j,2.14.0,Apache-2.0,https://logging.apache.org/log4j/2.x/download.html](https://logging.apache.org/log4j/2.x/download.html
+joda-time,2.10.8,Apache-2.0,https://github.com/JodaOrg/joda-time]
