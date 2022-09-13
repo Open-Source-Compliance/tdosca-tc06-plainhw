@@ -39,7 +39,7 @@ To compile and run the program, ...
 * Call ``mvn package`` and
   - ``java -jar target/tdosca-tc06-1.0.jar``
 * or
-  - ``unzip target/tdosca-tc06.zip`` and
+  - ``unzip target/tdosca-tc06-1.0.zip`` and
   - ``./tdosca-tc06/bin/tc06.sh``
 
 ## 6. Licensing <a id="lic"></a>
