@@ -1,4 +1,8 @@
-# Test-Driven Open Source Compliance Automation Test Case No. 6: a Plain Hello World with external JAVA components and maven
+# Deprecated: TDOSCA-TC06
+
+***The case systematic has been reorganized. Valid cases now have a number >= 10 ...***
+
+TC06 stood for 'Test-Driven Open Source Compliance Automation Test Case No. 6: a Plain Hello World with external JAVA components and maven'
 
 **DEPRECATED** *The case systematic has been reorganized. Valid cases now have a number >= 10 ...*
 
